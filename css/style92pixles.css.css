@@ -1,0 +1,151 @@
+/* Start main ruls */
+*{
+
+}
+body {
+	text-align:center;
+	height:1170px;
+	background-image:url("../images/bk.png");
+	
+}
+
+.container {
+	width:1000px;
+	margin:auto;
+	
+	
+}
+.color{
+	background-color:#fff;
+}
+/* End main ruls */
+
+
+/* Start Header */
+.logo{
+	margin-right:380px;
+	display:inline;
+}
+.social{
+	float:right;
+	margin-right:120px;
+	
+}
+.social ul{
+	list-style-type:none;
+	overflow:hidden;
+	
+}
+.social  li{
+	display:inline;
+}
+
+.hi {
+	
+	margin:0;
+	padding:0;
+}
+/* End Header */
+
+
+/* Start Navbar */
+.nav{
+	
+	background-color:blue;
+}
+.nav a{
+	color:white;
+	padding:40px;
+	font-size:20px;
+	text-decoration:none
+}
+.nav ul{
+	list-style-type:none;
+	margin:0;
+	text-align:left;
+	margin-left:60px;
+	padding:10px
+	
+	
+}
+.nav ul li{
+	display:inline;
+	
+	
+	
+}
+
+/* End Navbar */
+
+
+/* Start About */
+
+	
+
+.About{
+	
+	overflow:hidden;
+	margin:0 0 0 20px;
+	padding:0;
+}
+.About img{
+	padding:10px;
+	float:left;
+	margin: 30px 30px 0 0;
+}
+
+.About h2,p{
+	color:#969696;
+	text-align:left;
+	margin:20px 0 0 30px;
+	text-align:justify;
+	
+}
+.About h2{
+	color:#555555;
+	margin-top:30px;
+	text-decoration:underline;
+}
+/* End About */
+
+
+/* Start Work */
+
+.Work h2{
+	margin:5px 0 0 20px;
+	text-decoration:underline;
+	text-align:left
+}
+.Work ul{
+	list-style-type:none;
+	
+}
+.Work ul li{
+	display:inline;
+	padding:20px;
+}
+
+/* End Work */
+
+/* Start Footer */
+.Footer{
+	padding:20px;
+	overflow:hidden;
+	background-color:#303030;
+
+	
+}
+.p1{
+	color:#7C7C7C;
+	margin-right:80px;
+	float:right;
+	text-align:justify;
+}
+.p2{
+	color:#7C7C7C;
+	margin-left:80px;	
+	text-align:justify;
+	
+}
+
+/* End Footer */
